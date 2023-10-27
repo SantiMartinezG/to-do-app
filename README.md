@@ -4,7 +4,7 @@
 
 ---
 
-## 🌸 Overview
+## ☝️ Overview
 
 A tranquil interface to manage your daily tasks, imbued with the simplicity of HTML, CSS, and JavaScript.
 
@@ -18,7 +18,7 @@ A tranquil interface to manage your daily tasks, imbued with the simplicity of H
 
 ---
 
-## 🌾 Getting Started
+## ✍️ Getting Started
 
 1. **Clone**:
     ```sh
