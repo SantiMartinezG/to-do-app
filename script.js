@@ -34,7 +34,7 @@ listContainer.addEventListener(
       saveData();
     }
   },
-  false
+  false,
 );
 
 function saveData() {

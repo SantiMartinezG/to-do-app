@@ -20,7 +20,9 @@
   background: #1b1f24;
   padding: 40px 30px 70px;
   border-radius: 20px;
-  box-shadow: 8px 8px 15px #15191e, -8px -8px 15px #202529;
+  box-shadow:
+    8px 8px 15px #15191e,
+    -8px -8px 15px #202529;
 }
 
 .todo-app h2 {
@@ -38,7 +40,9 @@
   border-radius: 30px;
   padding-left: 20px;
   margin-bottom: 25px;
-  box-shadow: 5px 5px 10px #15191e, -5px -5px 10px #202529;
+  box-shadow:
+    5px 5px 10px #15191e,
+    -5px -5px 10px #202529;
 }
 
 input {
@@ -60,7 +64,9 @@ button {
   font-size: 16px;
   cursor: pointer;
   border-radius: 40px;
-  box-shadow: 5px 5px 10px #15191e, -5px -5px 10px #202529;
+  box-shadow:
+    5px 5px 10px #15191e,
+    -5px -5px 10px #202529;
 }
 
 button:hover {
@@ -78,7 +84,9 @@ ul li {
   background: #1b1f24;
   margin-bottom: 10px;
   border-radius: 20px;
-  box-shadow: 5px 5px 10px #15191e, -5px -5px 10px #202529;
+  box-shadow:
+    5px 5px 10px #15191e,
+    -5px -5px 10px #202529;
   color: #a9adb2;
 }
 
@@ -116,7 +124,9 @@ ul li span {
   text-align: center;
   border-radius: 50%;
   background: #1b1f24;
-  box-shadow: 5px 5px 10px #15191e, -5px -5px 10px #202529;
+  box-shadow:
+    5px 5px 10px #15191e,
+    -5px -5px 10px #202529;
 }
 
 ul li span:hover {
